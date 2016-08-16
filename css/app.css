@@ -225,11 +225,10 @@ li{
 
 }
 .myquote > p{
-    font-size: 1.6em;
-    font-family: 'Poiret One', cursive;
+    font-size: 1.9em;
+    font-family: 'Shadows Into Light', cursive;
     font-weight: 700;
-    text-shadow: 5px 5px 6px black;
-    
+    text-shadow: 5px 5px 6px aliceblue;
 }
 
 
@@ -237,7 +236,13 @@ li{
 
 
 
-
+.aboutme{
+    text-align: center;
+    margin-top: 1em;
+    font-family: 'Yellowtail', cursive;
+    font-size: 1.7em;
+    text-shadow: 5px 5px 6px gray;
+}
 
 
 
